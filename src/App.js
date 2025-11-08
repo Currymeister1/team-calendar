@@ -10,7 +10,6 @@ import "react-datepicker/dist/react-datepicker.css";
 import "./App.css";
 import raw from "../src/dummy-roster.txt";
 import { Views } from "react-big-calendar";
-import Export from "./Export";
 import html2canvas from 'html2canvas';
 import { saveAs } from "file-saver";
 
